@@ -3,8 +3,6 @@
 
 Predicts customer churn using the IBM Telco dataset...
 
-# 📊 Customer Churn Prediction
-
 A complete end-to-end machine learning project that predicts whether 
 a telecom customer will churn (leave the service), built using the 
 IBM Telco Customer Churn dataset.
