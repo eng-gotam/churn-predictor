@@ -1,3 +1,8 @@
+# 📊 Customer Churn Predictor
+🚀 Live App: https://yourname-churn-predictor-xxxx.streamlit.app
+
+Predicts customer churn using the IBM Telco dataset...
+
 # 📊 Customer Churn Prediction
 
 A complete end-to-end machine learning project that predicts whether 
